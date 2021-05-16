@@ -6,16 +6,20 @@ let correctAnswers = 0;
 
 
 // 2. Store the rank of a player
-
+let playerRank = 0;
 
 // 3. Select the <main> HTML element
-
+let main = document.querySelector('main');
 
 /*
   4. Ask at least 5 questions
    - Store each answer in a variable
    - Keep track of the number of correct answers
 */
+let answer1 = prompt('How old is Chewy?');
+if answer1 = 3 {
+  correctAnswers +=
+}
 
 
 /*
