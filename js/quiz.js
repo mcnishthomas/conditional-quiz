@@ -61,7 +61,7 @@ if (correctAnswers == 5) {
 } else if (correctAnswers == 2 || correctAnswers == 1) {
   playerRank = 'a Bronze Crown';
 } else {
-  playerRank = '/tenor.gif';
+  playerRank = 'NOTHING! GOOD DAY, SIR!'
 }
 
 
