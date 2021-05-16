@@ -2,6 +2,7 @@
   1. Store correct answers
    - When quiz begins, no answers are correct
 */
+let correctAnswers = 0;
 
 
 // 2. Store the rank of a player
